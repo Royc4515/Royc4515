@@ -1,4 +1,4 @@
-<a href="https://roy-carmelli-portfolio.vercel.app/"><img src="assets/hero.svg" width="100%" alt="Roy Carmelli - AI & LLM engineering, CS + Neuroscience @ Bar-Ilan" /></a>
+<a href="https://roy-carmelli-portfolio.vercel.app/"><img src="assets/hero-v2.svg" width="100%" alt="Roy Carmelli - AI & LLM engineering, CS + Neuroscience @ Bar-Ilan" /></a>
 
 <p align="center">
   <a href="https://roy-carmelli-portfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0d0b1a?style=for-the-badge&logo=vercel&logoColor=c4b5fd&labelColor=0d0b1a" alt="Portfolio" /></a>
