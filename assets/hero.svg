@@ -39,9 +39,6 @@
       @keyframes blink { 0%,100% { opacity: 1 } 50% { opacity: .25 } }
       .caret { animation: caret 1s steps(1) infinite; }
       @keyframes caret { 50% { opacity: 0 } }
-      .fade { opacity: 0; animation: fade .9s ease-out forwards; }
-      .f2 { animation-delay: .25s } .f3 { animation-delay: .5s } .f4 { animation-delay: .75s }
-      @keyframes fade { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: none } }
     </style>
   </defs>
 
@@ -74,17 +71,17 @@
     </g>
 
     <!-- status pill -->
-    <g class="fade">
+    <g>
       <rect x="64" y="62" width="222" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/>
       <circle class="dot" cx="86" cy="79" r="5" fill="#34d399"/>
       <text x="102" y="84" class="mono" font-size="14" fill="#d1fae5">open to student roles</text>
     </g>
 
-    <text x="62" y="178" class="sans fade f2" font-size="76" font-weight="800" letter-spacing="-2.5" fill="url(#name)">Roy Carmelli</text>
+    <text x="62" y="178" class="sans" font-size="76" font-weight="800" letter-spacing="-2.5" fill="url(#name)">Roy Carmelli</text>
 
-    <text x="66" y="226" class="sans fade f3" font-size="24" font-weight="500" fill="#e4e4e7">AI &amp; LLM engineering · <tspan fill="#a78bfa">CS</tspan> + <tspan fill="#67e8f9">Neuroscience</tspan> @ Bar-Ilan</text>
+    <text x="66" y="226" class="sans" font-size="24" font-weight="500" fill="#e4e4e7">AI &amp; LLM engineering · <tspan fill="#a78bfa">CS</tspan> + <tspan fill="#67e8f9">Neuroscience</tspan> @ Bar-Ilan</text>
 
-    <g class="fade f4">
+    <g >
       <text x="66" y="292" class="mono" font-size="17" fill="#71717a"><tspan fill="#a78bfa">~/roy</tspan> <tspan fill="#52525b">$</tspan> <tspan fill="#d4d4d8">build --agents --mcp --python</tspan><tspan class="caret" fill="#67e8f9">▍</tspan></text>
       <text x="66" y="324" class="mono" font-size="15" fill="#52525b">// shipping agents that talk to models, tools and brains</text>
     </g>
