@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="230" viewBox="0 0 580 230" role="img" aria-label="Cognitive Outcomes">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0a14"/><stop offset="1" stop-color="#110e22"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#67e8f9" stop-opacity="0.28"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#67e8f9"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/></linearGradient>
+    <style>.blink{animation:b 2s ease-in-out infinite}@keyframes b{50%{opacity:.3}}</style>
+  </defs>
+  <rect x="1" y="1" width="578" height="228" rx="18" fill="url(#bg)" stroke="#ffffff" stroke-opacity="0.09"/>
+  <rect x="1" y="1" width="578" height="228" rx="18" fill="url(#glow)"/>
+  <rect x="32" y="28" width="120" height="3" rx="1.5" fill="url(#bar)"/>
+  <text x="32" y="58" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" fill="#52525b">06 /</text>
+  <circle class="blink" cx="540" cy="54" r="5" fill="#67e8f9"/>
+  <text x="32" y="90" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" letter-spacing="-0.8" fill="#fafafa">Cognitive Outcomes</text>
+  <text x="548" y="90" text-anchor="end" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" fill="#67e8f9">↗</text>
+  <text x="32" y="120" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#a1a1aa">Socio-educational predictors of children's</text><text x="32" y="146" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#a1a1aa">cognitive outcomes, OLS regression.</text>
+  <rect x="32" y="176" width="66" height="28" rx="14" fill="#67e8f9" fill-opacity="0.1" stroke="#67e8f9" stroke-opacity="0.35"/><text x="65" y="195" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" fill="#67e8f9">Python</text><rect x="107.6" y="176" width="66" height="28" rx="14" fill="#67e8f9" fill-opacity="0.1" stroke="#67e8f9" stroke-opacity="0.35"/><text x="140" y="195" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" fill="#67e8f9">Pandas</text><rect x="183.2" y="176" width="57" height="28" rx="14" fill="#67e8f9" fill-opacity="0.1" stroke="#67e8f9" stroke-opacity="0.35"/><text x="212" y="195" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" fill="#67e8f9">SciPy</text>
+</svg>
