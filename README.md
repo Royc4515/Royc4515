@@ -1,9 +1,14 @@
-<a href="https://roy-carmelli-portfolio.vercel.app/"><img src="assets/hero-v2.svg" width="100%" alt="Roy Carmelli - AI & LLM engineering, CS + Neuroscience @ Bar-Ilan" /></a>
+<a href="https://roy-carmelli-portfolio.vercel.app/"><img src="assets/hero-v2.svg" width="100%" alt="Roy Carmelli (רועי כרמלי) - AI & LLM engineering, CS + Neuroscience @ Bar-Ilan" /></a>
 
 <p align="center">
   <a href="https://roy-carmelli-portfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0d0b1a?style=for-the-badge&logo=vercel&logoColor=c4b5fd&labelColor=0d0b1a" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/roy-carmelli"><img src="https://img.shields.io/badge/linkedin-0d0b1a?style=for-the-badge&logoColor=67e8f9&labelColor=0d0b1a" alt="LinkedIn" /></a>
   <a href="mailto:roy.y.carmelli@gmail.com"><img src="https://img.shields.io/badge/email-0d0b1a?style=for-the-badge&logo=gmail&logoColor=c4b5fd&labelColor=0d0b1a" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <b>Roy Carmelli · רועי כרמלי</b> - Computer Science &amp; Neuroscience student at Bar-Ilan University, building AI tools and web apps.<br />
+  Portfolio, CV and projects: <a href="https://roy-carmelli-portfolio.vercel.app/">roy-carmelli-portfolio.vercel.app</a>
 </p>
 
 <img src="assets/h-about.svg" width="100%" alt="about" />
